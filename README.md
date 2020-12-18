@@ -1,0 +1,2 @@
+# ideator-mon
+Monitoring ideas
